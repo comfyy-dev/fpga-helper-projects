@@ -1,0 +1,52 @@
+------- CLK's -------
+Clock:      PIN_23
+
+------- RST -------
+RST:        PIN_25
+
+------- LED's -------
+LED-1:      PIN_84
+LED-2:      PIN_85
+LED-3:      PIN_86
+LED-4:      PIN_87
+
+------- SEG's -------
+SEG-A:      PIN_128
+SEG-B:      PIN_121
+SEG-C:      PIN_125
+SEG-D:      PIN_129
+SEG-E:      PIN_132
+SEG-F:      PIN_126
+SEG-G:      PIN_124
+DEC-P:      PIN_127
+
+------- DIG's -------
+DIG-1:      PIN_133
+DIG-2:      PIN_135
+DIG-3:      PIN_136
+DIG-4:      PIN_137
+
+------- BUT's -------
+S1:         PIN_88
+S2:         PIN_89
+S3:         PIN_90
+S4:         PIN_91
+
+------- SWT's -------
+SWT-1:      PIN_88
+SWT-2:      PIN_89
+SWT-3:      PIN_90
+SWT-4:      PIN_91
+
+------- BUZ's -------
+BZ1:        PIN_110
+
+------- UART --------
+TX:         PIN_114
+RX:         PIN_115
+
+------- I2C --------
+SCL         PIN_112
+SDA         PIN_113
+I2C_SCL     PIN_99
+I2C_SDA     PIN_98
